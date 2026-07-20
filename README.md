@@ -1,4 +1,4 @@
-# Household Ledger
+# TypeScript Household Ledger
 
 TypeScript + Vite로 만든 가계부 앱입니다.
 
